@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.indiepub</groupId>
-  <artifactId>cron-update-distribution-rights</artifactId>
+  <artifactId>cron-unpublish-process-product-feed</artifactId>
   <version>1.0.0</version>
   <packaging>kjar</packaging>
-  <name>cron-update-distribution-rights</name>
+  <name>cron-unpublish-process-product-feed</name>
   <description></description>
   <dependencies>
     <dependency>
